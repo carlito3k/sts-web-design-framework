@@ -1,0 +1,2 @@
+# sts-web-design-framework
+Modular architecture, design systems, compiler specifications, and QA standards for the Simplified Tech Solutions website design framework.
